@@ -15,3 +15,7 @@ Guia rápido para se escrever em [Markdown](https://help.github.com/pt/github/wr
 ### Epoch Converter
 Epoch & Unix Timestamp Conversion Tool
 [Epoch](https://www.epochconverter.com/)
+
+### Git Guia Prático
+
+[Guia Prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
