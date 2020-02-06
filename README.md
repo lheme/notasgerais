@@ -24,3 +24,10 @@ Epoch & Unix Timestamp Conversion Tool
 ### Gerador de CPF
 
 [Gerador](https://www.geradordecpf.org/) automático de CPFs, para fins de testes
+
+
+### Templates CSS 
+
+[Pure CSS](https://purecss.io/) template simples de uso para desenvolvimento
+
+[Bootstrap 4](https://getbootstrap.com/)
