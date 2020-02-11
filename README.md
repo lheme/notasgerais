@@ -20,7 +20,7 @@ Epoch & Unix Timestamp Conversion Tool
 
 [Guia Prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) de comandos Git para uso rápido do versionador de código
 
-[Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+[Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) para uso do flow git
 
 
 ### Gerador de CPF
