@@ -22,7 +22,7 @@ Epoch & Unix Timestamp Conversion Tool
 
 [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) para uso do flow git
 
-[Git Feature Brnach](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+[Git Feature Branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 
 ### Gerador de CPF
